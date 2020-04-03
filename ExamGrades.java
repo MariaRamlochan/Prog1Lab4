@@ -1,7 +1,7 @@
 /*
  * Program that promts the users for any number of 10 grades from 0 to 100.
  * Ouputs the minimum, maximum and average grade.
- * Textboob Question 61.
+ * Textbook Question 61.
  */
 package lab4;
 import java.util.*;
